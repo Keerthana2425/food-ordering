@@ -1,3 +1,3 @@
-#deployed link
+#Hosting URL:
 
-https://console.firebase.google.com/project/food-ordering-83250/overview
+https://food-ordering-83250.web.app
